@@ -1,6 +1,6 @@
 # SayCheese v1.2
-## Author: https://github.com/thelinuxchoice/saycheese
-## Twitter: https://twitter.com/linux_choice
+## Author: 
+## Teligram
 
 Take webcam shots from target just sending a malicious link
 
