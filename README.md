@@ -1,6 +1,8 @@
 # SayCheese v1.2
-## Author: 
-## Teligram
+## Author: https://github.com/keralahackers/
+## Teligram:Kerala Hackers😈
+This channel only for education purpose only don't miss use
+https://t.me/kerala_hackers_official
 
 Take webcam shots from target just sending a malicious link
 
